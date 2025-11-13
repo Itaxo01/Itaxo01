@@ -15,26 +15,28 @@ I'm a Computer Science student at UFSC with a passion for C++, algorithms, and c
 * **Areas of Interest:** Competitive Programming, Algorithm Analysis and Design, Data Structures, Graph Theory.
 * **Tools:** Git, Linux, Spring Boot, JSoup, SQL
 
+### My Projects
+
+
+* **[Professor Who](https://www.github.com/Itaxo01/Professor-Who)**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. 
+The application is fully integrated with the university site for the scrapping of professors and courses, along with student verification, allowing access and use only for authenticated students. 
+Allows the access to ratings and reviews for each pair of (Course, professor), along with interaction with the reviews (Comments and likes).
+Made with Java Spring Boot for the back-end and JavaScript, HTML/CSS for the front-end.
+
 ---
 
-### 🏆 Competitive Programming
+### Competitive Programming
 
-I actively solve problems on platforms like LeetCode and Codeforces. This is where I sharpen my skills in:
+I actively solve problems on platforms like Atcoder and Codeforces. This is where I sharpen my skills in:
+* Problem solving in general
+* Algorithms analysis and design
 * Dynamic Programming
 * Graph Theory (DFS, BFS, Dijkstra)
 * Advanced Data Structures (Segment Trees, Sparse Tables, etc.)
 
-Check out my `Competitive-Programming` repo for my solutions (Although they're not that organized)!
+Check out my [Competitive-Programming](https://www.github.com/Itaxo01/Competitive-Programming) repo for my solutions! (Although they're not that organized nor updated frequently)
 
 ---
-
-### 🚀 My Featured Projects
-
-*(See my pinned repositories for the code!)*
-
-* **[Professor Who]**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. The application is fully integrated with the university site for the scrapping of professors and courses, along with student verification, only allowing access and use for authenticated students. 
-
-### 🐍 My Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itaxo01/Itaxo01/output/github-snake-dark.svg" />
@@ -44,7 +46,7 @@ Check out my `Competitive-Programming` repo for my solutions (Although they're n
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
-* **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/kauan-fank)
-* **Email:** [your.email@example.com](mailto:kauan.fank@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kauan-fank](https://www.linkedin.com/in/kauan-fank)
+* **Email:** [kauan.fank@gmail.com](mailto:kauan.fank@gmail.com)
