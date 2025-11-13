@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there, I'm Kauan! 👋
 
-<!--
-**Itaxo01/Itaxo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UFSC with a passion for C++, algorithms, and complex problem-solving. My main focus is building efficient, high-performance applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+* **Languages:** C++, Java, Python, C, Assembly, SQL, HTML/CSS, JavaScript
+* **Areas of Interest:** Competitive Programming, Algorithm Analysis and Design, Data Structures, Graph Theory.
+* **Tools:** Git, Linux, Spring Boot, JSoup
+
+---
+
+### 🏆 Competitive Programming
+
+I actively solve problems on platforms like LeetCode and Codeforces. This is where I sharpen my skills in:
+* Dynamic Programming
+* Graph Theory (DFS, BFS, Dijkstra)
+* Advanced Data Structures (Segment Trees, Sparse Tables, etc.)
+
+Check out my `Competitive-Programming` repo for my solutions (Although they're not that organized)!
+
+---
+
+### 🚀 My Featured Projects
+
+*(See my pinned repositories for the code!)*
+
+* **[Professor Who]**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. The application is fully integrated with the university site for the scrapping of professors and courses, along with student verification, only allowing access and use for authenticated students. 
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/kauan-fank)
+* **Email:** [your.email@example.com](mailto:kauan.fank@gmail.com)
