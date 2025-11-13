@@ -4,11 +4,16 @@ I'm a Computer Science student at UFSC with a passion for C++, algorithms, and c
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
-* **Languages:** C++, Java, Python, C, Assembly, SQL, HTML/CSS, JavaScript
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,python,git,linux,spring,html,css,js,mysql" />
+  </a>
+</p>
+
 * **Areas of Interest:** Competitive Programming, Algorithm Analysis and Design, Data Structures, Graph Theory.
-* **Tools:** Git, Linux, Spring Boot, JSoup
+* **Tools:** Git, Linux, Spring Boot, JSoup, SQL
 
 ---
 
