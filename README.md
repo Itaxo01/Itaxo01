@@ -34,6 +34,14 @@ Check out my `Competitive-Programming` repo for my solutions (Although they're n
 
 * **[Professor Who]**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. The application is fully integrated with the university site for the scrapping of professors and courses, along with student verification, only allowing access and use for authenticated students. 
 
+### 🐍 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itaxo01/Itaxo01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itaxo01/Itaxo01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Itaxo01/Itaxo01/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### 📫 How to Reach Me
