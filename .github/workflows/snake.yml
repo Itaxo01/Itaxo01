@@ -3,6 +3,8 @@ name: Generate Snake
 permissions:
   contents: write
 
+persist-credentials: true
+
 on:
   schedule:
     # Runs every 12 hours
