@@ -1,13 +1,14 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -30,6 +31,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Push changes
-        run: git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Itaxo01/Itaxo01.git output
