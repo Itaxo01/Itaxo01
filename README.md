@@ -18,7 +18,7 @@ I'm a Computer Science student at UFSC with a passion for C++, algorithms, and c
 ### My Projects
 
 
-* **[Professor Who](https://www.github.com/Itaxo01/Professor-Who)**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. 
+* **[AvaliaUFSC](https://www.github.com/Itaxo01/AvaliaUFSC)**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. 
 	- The application is fully integrated with the university site for the scrapping of professors and courses, along with student verification, allowing access and use only for authenticated students. 
 	- Allows the access to ratings and reviews for each pair of (Course, professor), along with interaction with the reviews (Comments and likes).
 	- Uses a vast set of tools, such as **thymeleaf** for the dynammic construction of pages through the stored data, **fuseJS** for the search mechanism, **JSoup** for data scrapping, and a lot of Spring functionalities for the management of the database, http sessions and API requests. 
