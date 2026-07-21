@@ -13,9 +13,8 @@ I'm a Computer Science student at UFSC with a passion for C++, algorithms, and c
 </p>
 
 * **Areas of Interest:** Competitive Programming, Algorithm Analysis and Design, Data Structures, Graph Theory.
-* **Tools:** Git, Linux, Spring Boot, JSoup, SQL
 
-### My Projects
+### My Projects (At least the biggest ones)
 
 
 * **[AvaliaUFSC](https://www.github.com/Itaxo01/AvaliaUFSC)**: A Fullstack web application for rating and reviewing professors and courses from the Federal University of Santa Catarina. 
@@ -24,6 +23,12 @@ I'm a Computer Science student at UFSC with a passion for C++, algorithms, and c
 	- Uses a vast set of tools, such as **thymeleaf** for the dynammic construction of pages through the stored data, **fuseJS** for the search mechanism, **JSoup** for data scrapping, and a lot of Spring functionalities for the management of the database, http sessions and API requests. 
 	- Made with **Java Spring Boot** for the back-end and **JavaScript and HTML/CSS** for the front-end.
 
+* **[Interactive Graphical System](https://github.com/Itaxo01/ComputacaoGrafica/)**: An interactive graphical system built without graphical libraries or engines, purely in C++ (with an experimental CUDA branch).
+ 	- It renders objects completely from scratch, executing a full pipeline that includes transformations, perspective, clipping, rasterization, shaders, and more.
+    - It's heavily parallelized on the CPU, using custom implementations of Intel TBB's `for_each` that achieve almost the same performance. Everything is done strictly on the CPU (except for the CUDA branch, which I haven't invested much time into yet).
+    - Because it doesn't use the GPU for rendering, the performance is naturally lower than a standard engine. The goal was to build everything from the ground up, so that was expected. Even so, it does a great job and can handle models with about 300K faces—which is probably higher than anything previously built in this course.
+    - I used [Dear ImGui](https://github.com/ocornut/imgui) and [GLFW](https://github.com/glfw/glfw) for the UI. The UI itself *does* use OpenGL, but our core pipeline runs entirely on the CPU, rasterizing to a FrameBuffer that is simply passed to OpenGL as a 2D texture.
+      
 ---
 
 ### Competitive Programming
